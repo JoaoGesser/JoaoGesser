@@ -2,7 +2,7 @@
 
 Be very welcome to my profile on github :)
 
-- 🔭 I'm currently working on an ambitious data migration project. Doing it from the creation of sprints, team management and software architecture. It's been very challenging and fun
+- 🔭 I'm currently working as a team lead. Doing it from the creation of sprints, team management and software architecture. It's been very challenging and fun
 - 🌱 I'm currently studying project structure more focused on java and go lang
 - 📫 How to reach me: peperomildo@gmail.com
 - ⚡ Fun fact: The Matrix is real
